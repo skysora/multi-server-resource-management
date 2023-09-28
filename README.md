@@ -1,0 +1,2 @@
+# multi-server-resource-management
+利用prometheus接收伺服器資源資料利用grafana顯示。其中傳送資料的模組為node_exporter、cadvisor、nvidia_gpu_exporter
