@@ -1,2 +1,12 @@
 # multi-server-resource-management
-利用prometheus接收伺服器資源資料利用grafana顯示。其中傳送資料的模組為node_exporter、cadvisor、nvidia_gpu_exporter
+Using Prometheus to collect server resource data and displaying it with Grafana. The modules responsible for sending data include node_exporter, cadvisor, and nvidia_gpu_exporter.
+
+
+## Structure
+- grafana
+- prometheus
+![Alt text](structure.png "Title")
+
+## Doucument
+
+[document](https://skysora.github.io/post/4/)
